@@ -32,4 +32,6 @@ git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
 
+![Screenshot 2025-05-29 112248](https://github.com/user-attachments/assets/f3da2615-9fc2-44c4-aa58-a5bc3af7a4e6)
+
 
