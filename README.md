@@ -31,9 +31,5 @@ A clean and simple weather application that shows the current temperature, locat
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
-2. **Get a free API key from WeatherAPI**
 
-3. **Update the API key**
-   In scripts.js, replace the sample key with your own:
-   ```bash
-   const url = `https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=${targetLocation}&aqi=no`;
+
